@@ -76,7 +76,7 @@
     "prettier": "^2.8.8",
     "ts-jest": "^26.5.6",
     "ts-node": "^10.9.2",
-    "tsc-watch": "^4.6.2"
+    "tsc-watch": "^7.0.0"
   },
   "release": {
     "branches": "staging",
